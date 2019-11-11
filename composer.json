@@ -5,7 +5,7 @@
     "license" : "MIT",
     "autoload": {
         "psr-4": {
-            "blackpanda\\BIP39\\" : "src/"
+            "blackpanda\\bip39\\" : "src/"
         }
     },
     "authors": [
